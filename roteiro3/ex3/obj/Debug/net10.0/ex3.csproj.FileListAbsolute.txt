@@ -1,0 +1,17 @@
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ex3.csproj.AssemblyReference.cache
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ex3.AssemblyInfoInputs.cache
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ex3.AssemblyInfo.cs
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\bin\Debug\net10.0\ex3.exe
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\bin\Debug\net10.0\ex3.deps.json
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\bin\Debug\net10.0\ex3.runtimeconfig.json
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\bin\Debug\net10.0\ex3.dll
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\bin\Debug\net10.0\ex3.pdb
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ex3.csproj.Up2Date
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ex3.dll
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\refint\ex3.dll
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ex3.pdb
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ex3.genruntimeconfig.cache
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex3\obj\Debug\net10.0\ref\ex3.dll
