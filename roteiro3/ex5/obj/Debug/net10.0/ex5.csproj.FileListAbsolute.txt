@@ -15,3 +15,4 @@ C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex5\obj\Debug\
 C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex5\obj\Debug\net10.0\ex5.pdb
 C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex5\obj\Debug\net10.0\ex5.genruntimeconfig.cache
 C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex5\obj\Debug\net10.0\ref\ex5.dll
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro3\ex5\obj\Debug\net10.0\ex5.sourcelink.json

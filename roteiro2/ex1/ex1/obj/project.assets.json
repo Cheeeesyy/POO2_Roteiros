@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel Pedroso\\Desktop\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj",
       "projectName": "ex1",
-      "projectPath": "C:\\Users\\Gabriel Pedroso\\Desktop\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj",
+      "projectPath": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj",
       "packagesPath": "C:\\Users\\Gabriel Pedroso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel Pedroso\\Desktop\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel Pedroso\\AppData\\Roaming\\NuGet\\NuGet.Config",

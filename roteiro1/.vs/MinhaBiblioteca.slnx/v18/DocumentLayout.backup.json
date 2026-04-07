@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5858D6B4-E647-A52D-A6CA-7991438BC9B7}|BibliotecaFinanceira\\BibliotecaFinanceira.csproj|c:\\users\\gabriel pedroso\\desktop\\faculdade\\poo2_roteiros\\roteiro1\\bibliotecafinanceira\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5858D6B4-E647-A52D-A6CA-7991438BC9B7}|BibliotecaFinanceira\\BibliotecaFinanceira.csproj|solutionrelative:bibliotecafinanceira\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4EB0A9-3D09-472E-4C7E-61F6FC24B60B}|BibliotecaConversao\\BibliotecaConversao.csproj|c:\\users\\gabriel pedroso\\desktop\\faculdade\\poo2_roteiros\\roteiro1\\bibliotecaconversao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4EB0A9-3D09-472E-4C7E-61F6FC24B60B}|BibliotecaConversao\\BibliotecaConversao.csproj|solutionrelative:bibliotecaconversao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5EFDDA-C1FC-A9EB-E4B9-6B06EC6BADE9}|AreaTriangulo\\AreaTriangulo.csproj|c:\\users\\gabriel pedroso\\desktop\\faculdade\\poo2_roteiros\\roteiro1\\areatriangulo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5EFDDA-C1FC-A9EB-E4B9-6B06EC6BADE9}|AreaTriangulo\\AreaTriangulo.csproj|solutionrelative:areatriangulo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF22D91-0BF5-8F23-6CFC-E5A4B6904496}|MinhaBiblioteca\\MinhaBiblioteca.csproj|c:\\users\\gabriel pedroso\\desktop\\faculdade\\poo2_roteiros\\roteiro1\\minhabiblioteca\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF22D91-0BF5-8F23-6CFC-E5A4B6904496}|MinhaBiblioteca\\MinhaBiblioteca.csproj|solutionrelative:minhabiblioteca\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro1\\BibliotecaFinanceira\\Class1.cs",
+              "RelativeDocumentMoniker": "BibliotecaFinanceira\\Class1.cs",
+              "ToolTip": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro1\\BibliotecaFinanceira\\Class1.cs",
+              "RelativeToolTip": "BibliotecaFinanceira\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:02:07.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro1\\MinhaBiblioteca\\Class1.cs",
+              "RelativeDocumentMoniker": "MinhaBiblioteca\\Class1.cs",
+              "ToolTip": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro1\\MinhaBiblioteca\\Class1.cs",
+              "RelativeToolTip": "MinhaBiblioteca\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:00:57.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro1\\BibliotecaConversao\\Class1.cs",
+              "RelativeDocumentMoniker": "BibliotecaConversao\\Class1.cs",
+              "ToolTip": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro1\\BibliotecaConversao\\Class1.cs",
+              "RelativeToolTip": "BibliotecaConversao\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:00:54.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro1\\AreaTriangulo\\Class1.cs",
+              "RelativeDocumentMoniker": "AreaTriangulo\\Class1.cs",
+              "ToolTip": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro1\\AreaTriangulo\\Class1.cs",
+              "RelativeToolTip": "AreaTriangulo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:32:06.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

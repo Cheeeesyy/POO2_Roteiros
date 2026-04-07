@@ -1,0 +1,15 @@
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\bin\Debug\net10.0\ex2.exe
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\bin\Debug\net10.0\ex2.deps.json
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\bin\Debug\net10.0\ex2.runtimeconfig.json
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\bin\Debug\net10.0\ex2.dll
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\bin\Debug\net10.0\ex2.pdb
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\ex2.AssemblyInfoInputs.cache
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\ex2.AssemblyInfo.cs
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\ex2.sourcelink.json
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\ex2.dll
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\refint\ex2.dll
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\ex2.pdb
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\ex2.genruntimeconfig.cache
+C:\Users\Gabriel Pedroso\Desktop\Faculdade\POO2_Roteiros\roteiro2\ex2\obj\Debug\net10.0\ref\ex2.dll

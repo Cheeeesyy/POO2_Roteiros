@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabriel Pedroso\\Desktop\\POO2_Roteiros\\roteiro2\\ex1\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro2\\ex1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3647C764-129C-B720-E582-30EB33306FD8}|ex1\\ex1.csproj|c:\\users\\gabriel pedroso\\desktop\\poo2_roteiros\\roteiro2\\ex1\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3647C764-129C-B720-E582-30EB33306FD8}|ex1\\ex1.csproj|c:\\users\\gabriel pedroso\\desktop\\faculdade\\poo2_roteiros\\roteiro2\\ex1\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3647C764-129C-B720-E582-30EB33306FD8}|ex1\\ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3647C764-129C-B720-E582-30EB33306FD8}|ex1\\ex1.csproj|c:\\users\\gabriel pedroso\\desktop\\poo2_roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3647C764-129C-B720-E582-30EB33306FD8}|ex1\\ex1.csproj|c:\\users\\gabriel pedroso\\desktop\\faculdade\\poo2_roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3647C764-129C-B720-E582-30EB33306FD8}|ex1\\ex1.csproj|solutionrelative:ex1\\ex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -27,23 +27,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ex1",
-              "DocumentMoniker": "C:\\Users\\Gabriel Pedroso\\Desktop\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj",
+              "Title": "ex1.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj",
               "RelativeDocumentMoniker": "ex1\\ex1.csproj",
-              "ToolTip": "C:\\Users\\Gabriel Pedroso\\Desktop\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj",
+              "ToolTip": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\ex1.csproj",
               "RelativeToolTip": "ex1\\ex1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-03T00:21:26.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T00:21:26.559Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel Pedroso\\Desktop\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\Program.cs",
               "RelativeDocumentMoniker": "ex1\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabriel Pedroso\\Desktop\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel Pedroso\\Desktop\\Faculdade\\POO2_Roteiros\\roteiro2\\ex1\\ex1\\Program.cs",
               "RelativeToolTip": "ex1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

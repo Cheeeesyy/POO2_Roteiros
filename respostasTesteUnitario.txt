@@ -1,0 +1,50 @@
+1 - testes de integração servem para verificar se diferentes partes do sistema funcionam bem quando estão juntas. o objetivo principal é garantir que a troca de informações entre esses componentes aconteça do jeito certo.
+
+2 - o teste unitário analisa uma parte isolada do código, como uma função ou método, normalmente sem depender de banco ou api real. já o teste de integração verifica a interação entre várias partes do sistema, como service, repository e banco de dados.
+
+3 - não. eles podem ser feitos de forma automatizada e também manual. a automação ajuda na rapidez, repetição e organização, mas os testes manuais também são úteis para perceber comportamentos que às vezes não aparecem com facilidade nos testes automáticos.
+
+4 - eles são importantes porque ajudam a descobrir falhas na comunicação entre módulos, serviços e sistemas. assim, evitam que o software pareça funcionar separado, mas apresente erro quando tudo é usado em conjunto.
+
+5 - um problema comum é o resultado incorreto, quando a informação recebida ou enviada entre módulos não bate com o esperado. outro é o comportamento inesperado, quando as partes do sistema até funcionam sozinhas, mas juntas apresentam erros ou respostas estranhas.
+
+6 - primeiro é preciso identificar quais módulos vão ser integrados. depois são definidos os cenários de teste, criados os casos com entradas e saídas esperadas, executados os testes, conferidos os resultados e, por fim, tudo deve ser documentado.
+
+7 - integração vertical acontece entre camadas diferentes do sistema, como controller, service e repository. integração horizontal acontece entre módulos que estão no mesmo nível, trocando informações entre si.
+
+8 - nesse caso está sendo testada uma integração vertical, porque o fluxo passa por várias camadas do sistema, desde a requisição http até a gravação no banco.
+
+9 - integração de interfaces, na poo, é quando se verifica se uma classe ou componente está se comunicando corretamente com outra parte a partir de um contrato definido por interface.
+
+10 - porque eles envolvem mais partes funcionando ao mesmo tempo. em vez de testar só um trecho do código, eles podem acessar banco, serviços e outras dependências, o que torna a execução mais demorada.
+
+11 - a) isso é um exemplo de integração de serviços.
+11 - b) deixaria de ser apenas integração de serviços quando um desses serviços passasse a se comunicar com um sistema externo, como uma api de outra empresa. nesse caso, entraria também como integração de sistemas.
+
+12 - esse cenário representa integração de sistemas, porque o software está se conectando com uma api externa, ou seja, com algo que está fora da própria aplicação.
+
+13 - integração de regressão é a verificação feita depois de mudanças no código para garantir que o que já funcionava continue funcionando normalmente. ela é importante para evitar que uma correção gere novos problemas.
+
+14 - esse caso se encaixa como integração de interfaces, porque o teste verifica se a implementação da classe está respeitando corretamente o contrato definido pela interface.
+
+15 - porque testes de integração costumam ser mais pesados, lentos e caros de manter. nem todo caso precisa disso, principalmente quando um teste unitário já resolve bem a validação de uma lógica simples.
+
+16 - o sistema pode até ter funções que passam isoladamente, mas apresentar falhas quando as partes começam a conversar entre si. isso pode gerar erros de comunicação, perda de dados e problemas que só aparecem no uso real.
+
+17 - a frase quer dizer que, quando um serviço conversa com outro, existe uma integração entre partes do sistema. mas integração de sistemas é algo mais amplo, porque pode envolver sistemas externos completos e não apenas serviços internos.
+
+18 - nesse fluxo aparecem mais de um tipo de integração. existe integração vertical no caminho entre a requisição e o banco, e também integração de sistemas quando a aplicação chama a api de pagamento externa.
+
+19 - dependências mockadas são versões simuladas de componentes reais, usadas para controlar melhor o teste. dependências reais são as que funcionam de verdade, como banco de dados ou api real. nos testes de integração, usar dependências reais deixa o cenário mais próximo do uso verdadeiro, mas também pode deixar o teste mais lento e instável.
+
+20 - entre as vantagens estão a execução mais rápida em comparação com testes manuais, a possibilidade de repetir o teste quantas vezes for necessário e a facilidade de identificar falhas de integração mais cedo.
+
+21 - não. só testes de integração não são suficientes para garantir a qualidade total. é preciso combinar com testes unitários, porque cada tipo cobre um aspecto diferente do sistema.
+
+22 - porque a api externa pode estar fora do ar, lenta, instável ou responder com erro, mesmo que o código da aplicação esteja correto. nesse tipo de teste existe dependência de fatores que não estão sob controle do programador.
+
+23 - uma arquitetura bem organizada facilita muito os testes de integração, porque deixa mais claro como as partes do sistema se conectam. isso ajuda tanto na criação dos testes quanto na identificação dos pontos onde os erros podem acontecer.
+
+24 - não substituem. testes unitários e testes de integração têm funções diferentes. um valida partes isoladas da lógica, enquanto o outro verifica se os componentes funcionam bem juntos.
+
+25 - um dos maiores desafios é lidar com a complexidade do ambiente, principalmente quando faltam documentação, organização e controle das dependências externas.
